@@ -2,4 +2,6 @@
 /Ngare Ndare HW.tbx
 *.tif
 *.ini
+desktop.ini
+**/desktop.ini
 
